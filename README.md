@@ -22,9 +22,9 @@ A comprehensive data analytics project focused on identifying and visualizing ri
 -	Power BI – Visualizations, segmentation, interactive filters, dashboards
 
 ## 📸 
-<img width="687" alt="Image" src="https://github.com/user-attachments/assets/3d93f268-2837-4ab6-8425-d75e72324b91" />
-<img width="686" alt="Image" src="https://github.com/user-attachments/assets/7ba5cf20-4d9c-44fa-b35b-f8384d6bb62c" />
-<img width="687" alt="Image" src="https://github.com/user-attachments/assets/96f829f0-0c1c-4190-8904-13d6655bdfb6" />
+<img width="451" alt="Image" src="https://github.com/user-attachments/assets/2e0314ab-13f9-4bb1-b7bb-bdec86d86d28" />
+<img width="452" alt="Image" src="https://github.com/user-attachments/assets/f80f6656-3481-4e57-bac3-66c27c2a9f23" />
+<img width="450" alt="Image" src="https://github.com/user-attachments/assets/5f5e281d-b0b8-4eeb-9663-98107c87d49c" />
 
 ## 🔍 Insights
 - Obesity, elevated blood pressure, and high glucose levels are strong indicators of diabetes risk.
