@@ -1,28 +1,25 @@
 # Diabetes Insights Dashboard
 
-A comprehensive data analytics project focused on identifying and visualizing risk factors associated with diabetes. This project combines Excel for data preparation and calculated fields with Power BI for interactive dashboards. The goal is to support healthcare analysts and decision-makers with actionable insights derived from patient health metrics.
+A comprehensive data analytics project focused on identifying and visualizing risk factors associated with diabetes. The project uses Microsoft Excel for data cleaning, transformation, and logic modeling, and Power BI for interactive dashboard reporting. It is designed to support healthcare analysts and decision-makers by highlighting key patterns and trends in patient health metrics.
 
 ## 📊 Project Highlights
 
-- Predictive classification of diabetes status based on clinical indicators
-- BMI categorization and blood pressure condition analysis
-- Risk level segmentation to highlight high-risk individuals
-- Age group comparison (Younger Adults vs Older Adults)
-- Demographic breakdowns by gender and ethnicity
-- Interactive dashboard for dynamic exploration
-
+- Rule-based risk classification using clinical indicators ( glucose level, BMI, blood pressure)
+- BMI categorization and blood pressure condition analysis using Excel formulas
+- Risk level segmentation to identify high-risk individuals
+- Age group comparison (Younger vs. Older Adults)
+-	Demographic breakdowns by gender and ethnicity
+- Interactive dashboard with filters and drill-downs for targeted insights
 ## 🧠 Objectives
 
-- Transform raw health data into analytical features
-- Identify patterns and predictors of diabetes
-- Provide clear visualizations for quick decision-making
-- Empower non-technical stakeholders with interpretable results
-
+- Transform raw health data into analytical features using Excel
+- Identify patterns and health indicators commonly associated with diabetes risk
+-	Provide clear, actionable visualizations to support data-driven decisions
+-	Empower non-technical stakeholders with interpretable and interactive insights
 ## 🛠 Tools & Technologies
 
-- **Microsoft Excel** – Data preprocessing, logic modeling, feature engineering
-- **Power BI** – Interactive visualizations, slicers, drill-down dashboards
-
+- Microsoft Excel – Data preprocessing, calculated fields, conditional logic
+-	Power BI – Visualizations, segmentation, interactive filters, dashboards
 
 ## 📸 
 <img width="687" alt="Image" src="https://github.com/user-attachments/assets/3d93f268-2837-4ab6-8425-d75e72324b91" />
@@ -30,12 +27,11 @@ A comprehensive data analytics project focused on identifying and visualizing ri
 <img width="687" alt="Image" src="https://github.com/user-attachments/assets/96f829f0-0c1c-4190-8904-13d6655bdfb6" />
 
 ## 🔍 Insights
-- Obesity, elevated blood pressure, and high glucose levels are strong predictors of diabetes risk.
-- Individuals categorized as Older Adults are more likely to fall into medium or high-risk groups.
-- Patients with a family history of diabetes are significantly more prone to having diabetes themselves.
-- Ethnicity and gender show observable variations in risk distribution, though not as prominent as health indicators.
-- The dashboard enables stakeholders to instantly filter and analyze population segments based on specific risk profiles.
-
+- Obesity, elevated blood pressure, and high glucose levels are strong indicators of diabetes risk.
+- Older Adults are more likely to fall into medium or high-risk groups.
+- Patients with a family history of diabetes show a higher risk level.
+- Ethnicity and gender show some variation in risk, though less pronounced than clinical indicators.
+- The dashboard allows healthcare professionals to filter population segments and explore health patterns visually.
 ## 📜 License
 MIT License
 
